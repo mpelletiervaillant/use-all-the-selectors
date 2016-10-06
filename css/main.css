@@ -18,18 +18,34 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-#contents, #favs, #facts, #types{
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
-.wrapper > .dnf{
+.wrapper > .dnf {
   background-color: #719e07;
 }
 
-.dnf + strong{
+.dnf + strong {
   color: #fff;
 }
 
 html body header nav ul li mark {
   background-color: #719e07;
+}
+
+a[rel="external"] {
+  background-color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+.types > li:nth-child(odd) {
+  background-color: #657ba3
 }
