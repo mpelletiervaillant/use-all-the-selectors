@@ -25,3 +25,7 @@ nav > ul {
 .wrapper > .dnf{
   background-color: #719e07;
 }
+
+.dnf + strong{
+  color: #fff;
+}
