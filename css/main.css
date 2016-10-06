@@ -6,7 +6,7 @@ header, footer {
   font-size: 1.5rem;
 }
 
-nav > ul {
+nav ul {
   font-family: sans-serif;
 }
 
@@ -22,11 +22,11 @@ nav > ul {
   color: #93a1a1;
 }
 
-.wrapper > .dnf {
-  background-color: #719e07;
+.wrapper div.dfn {
+  background-color: #b58900;
 }
 
-.dnf + strong {
+p + strong {
   color: #fff;
 }
 
@@ -52,4 +52,8 @@ ol li:last-child {
 
 .types > li:nth-child(even) {
   background-color: #586e75;
+}
+
+.types>li:nth-child(3n) {
+  background-color: #d04b16;
 }
