@@ -15,9 +15,13 @@ nav > ul {
 }
 
 .wrapper {
-  background color: #eee8d5;
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types{
-  color: #93a1a1
+  color: #93a1a1;
+}
+
+.wrapper > .dnf{
+  background-color: #719e07;
 }
