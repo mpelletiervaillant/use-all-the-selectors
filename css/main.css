@@ -54,6 +54,6 @@ ol li:last-child {
   background-color: #586e75;
 }
 
-.types>li:nth-child(3n) {
+.types > li:nth-child(3n) {
   background-color: #d04b16;
 }
