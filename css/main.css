@@ -30,6 +30,6 @@ nav > ul {
   color: #fff;
 }
 
-mark, li, ul, nav, h1, header, body, head, html{
+html body header nav ul li mark {
   background-color: #719e07;
 }
